@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://im.ezgif.com/tmp/ezgif-1-35c3767565.gif" width="100"/>
 </div>
 <h1 align="center" id="header"><strong>Hello <code>World</code> !</strong></h1>
 
@@ -14,4 +14,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<br>
 
+<h3 align="center"><strong> My name is <code>invalortone</code>... </strong></h3> 
