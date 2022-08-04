@@ -16,14 +16,19 @@
 </div>
 <br>
 
+<div id="header" align="center">
+  <img src="https://wallpapercave.com/uwp/uwp1795071.gif" width="600" height="300"/>
+</div>
+
 ## Description:
 
-Yup, that's me, <a href="https://github.com/Invalortone/"><code>invalortone</code></a>.
+Yup, it's me, <a href="https://github.com/Invalortone/"><code>invalortone</code></a>.
 
 <pre><code>I'm a software engineer with experience on web development, and a student residing in the UK. 
-After many hours of debugging and forgetting to put the semi-colon at the end of the line,
-I came back from the <i><b>depths of hell</b></i> and started this Github account.
-Please do not hesitate to openly slander me, I accept all kinds of criticism, both constructive and destructive.</code></pre>
+
+> After many hours of debugging and forgetting to put the semi-colon at the end of the line,
+> I came back from the <i><b>depths of hell</b></i> and started this Github account.
+> Please do not hesitate to openly slander me, I accept all kinds of criticism, both constructive and destructive.</code></pre>
 
 ## Interests and Social Media:
 
@@ -44,7 +49,7 @@ Please do not hesitate to openly slander me, I accept all kinds of criticism, bo
  </a>
  <br>
  
-## Statistics for the dweebs:
+## Statistics for the nerds:
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Invalortone&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
