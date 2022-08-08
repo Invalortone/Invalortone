@@ -39,13 +39,16 @@ Yup, it's me, <a href="https://github.com/Invalortone/"><code>invalortone</code>
 > </a>
 > <a href="https://www.html.com/">
 >    <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+> </a>
+> <a href="https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html">
+>    <img src="https://img.shields.io/badge/pinescript-brightgreen?style=for-the-badge&logo=pine&logoColor=white" alt="PineScript Badge"/>
  </a>
  
 <br>
  
 - Where you can reach me: 
 > <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLPwVQVfKwMBrfVknQKQntpBSVrHGksjmVgTXBLTZdgJZQDqrsTxdxwNrjjHRXGvJzWJvX">
->    <img src="https://img.shields.io/badge/gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML5 Badge"/>
+>    <img src="https://img.shields.io/badge/gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
  </a>
  <br>
  
