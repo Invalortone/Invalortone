@@ -24,7 +24,7 @@
 
 Yup, it's me, <a href="https://github.com/Invalortone/"><code>invalortone</code></a>.
 
-<pre><code>I'm a software engineer with experience on web development, and a student residing in the UK. 
+<pre><code>I'm a python developer with experience on web development, and a student residing in the UK. 
 
 > After many hours of debugging and forgetting to put the semi-colon at the end of the line,
 > I came back from the <i><b>depths of hell</b></i> and started this Github account.
