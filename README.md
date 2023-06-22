@@ -17,17 +17,15 @@
 
 ## Description:
 
-Yup, it's me, <a href="https://github.com/Invalortone/"><code>invalortone</code></a>.
+Dear Readers, 
+My name is <a href="https://github.com/Invalortone/"><code>invalortone</code></a>.
 
-<pre><code>I'm a Python and Rust developer with experience in web development, and a student residing in the UK. 
+<pre><code>The hanging star glimmers brightly in the sky and the black curtain envelops it as Night overwhelms the sky. </code></pre><br><pre><code> Good evening, I am a novice in the art of Programming, but I will be sure to create a wide range of programs to assist my peers and spread ease in these dusk-filled times. </code></pre><br><pre><code> I'm proficient in Python and Rust, and I intend to study the field of Software development as well as data analysis.</code></pre> <br> <pre><code> Pierce your gaze into the sky, for the heavens are filled with limitless opportunities. </code></pre>
 
-> After many hours of debugging and forgetting to put the semi-colon at the end of the line,
-> I came back from the <i><b>depths of the internet</b></i> and started this Github account.
-> Please do not hesitate to slander me openly, I accept all kinds of criticism, both constructive and destructive.</code></pre>
 
 ## Interests and Social Media:
 
-- The main programming languages I have studied so far, are: 
+- The languages I have deliberated these languages and I am foraging for more: 
 
 > <a href="https://www.python.org/">
 >    <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>  
@@ -44,13 +42,13 @@ Yup, it's me, <a href="https://github.com/Invalortone/"><code>invalortone</code>
  
 <br>
  
-- Where you can reach me: 
+- This is my email, in case you desired to contact me, 
 > <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLPwVQVfKwMBrfVknQKQntpBSVrHGksjmVgTXBLTZdgJZQDqrsTxdxwNrjjHRXGvJzWJvX">
 >    <img src="https://img.shields.io/badge/gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
  </a>
  <br>
  
-## Statistics for the nerds:
+## Statistics:
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Invalortone&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
