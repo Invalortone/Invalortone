@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://im.ezgif.com/tmp/ezgif-1-35c3767565.gif" width="100"/>
-</div>
+
 <h1 align="center" id="header"><strong>Hello <code>World</code> !</strong></h1>
 
 <div id="badges" align="center" id="header">
@@ -16,9 +14,6 @@
 </div>
 <br>
 
-<div id="header" align="center">
-  <img src="https://wallpapercave.com/uwp/uwp1795071.gif" width="600" height="300"/>
-</div>
 
 ## Description:
 
@@ -27,7 +22,7 @@ Yup, it's me, <a href="https://github.com/Invalortone/"><code>invalortone</code>
 <pre><code>I'm a Python and Rust developer with experience in web development, and a student residing in the UK. 
 
 > After many hours of debugging and forgetting to put the semi-colon at the end of the line,
-> I came back from the <i><b>depths of hell</b></i> and started this Github account.
+> I came back from the <i><b>depths of the internet</b></i> and started this Github account.
 > Please do not hesitate to slander me openly, I accept all kinds of criticism, both constructive and destructive.</code></pre>
 
 ## Interests and Social Media:
