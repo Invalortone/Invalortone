@@ -1,5 +1,5 @@
 
-<h1 align="center" id="header"><strong>Hello <code>World</code> !</strong></h1>
+<h1 align="center" id="header"><strong>Good <code>Evening</code> !</strong></h1>
 
 <div id="badges" align="center" id="header">
   <a href="https://www.linkedin.com/in/invalor-tone-b40a52229/">
@@ -25,7 +25,7 @@ My name is <a href="https://github.com/Invalortone/"><code>invalortone</code></a
 
 ## Interests and Social Media:
 
-- The languages I have deliberated these languages and I am foraging for more: 
+- The languages I have deliberated but I am foraging for more: 
 
 > <a href="https://www.python.org/">
 >    <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>  
