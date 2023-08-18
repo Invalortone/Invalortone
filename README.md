@@ -20,7 +20,8 @@
 Dear Readers, 
 My name is <a href="https://github.com/Invalortone/"><code>invalortone</code></a>.
 
-<pre><code>The hanging star glimmers brightly in the sky and the black curtain envelops it as Night overwhelms the sky. </code></pre><br><pre><code> Good evening, I am a novice in the art of Programming, but I will be sure to create a wide range of programs to assist my peers and spread ease in these dusk-filled times. </code></pre><br><pre><code> I'm proficient in Python and Rust, and I intend to study the field of Software development as well as data analysis.</code></pre> <br> <pre><code> Pierce your gaze into the sky, for the heavens are filled with limitless opportunities. </code></pre>
+<span style="font-family:'Courier New'">The hanging star glimmers brightly in the sky and the black curtain envelops it as Night overwhelms the sky. <br><br> Good evening, I am a novice in the art of Programming, but I will be sure to create a wide range of programs to assist my peers and spread ease in these dusk-filled times. <br> I'm proficient in Python and Rust, and I intend to study the field of Software development as well as Blockchain Development.<br><br> Pierce your gaze into the sky, for the heavens are filled with limitless opportunities.</span>
+
 
 
 ## Interests and Social Media:
@@ -30,11 +31,11 @@ My name is <a href="https://github.com/Invalortone/"><code>invalortone</code></a
 > <a href="https://www.python.org/">
 >    <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>  
 > </a>
-> <a href="https://www.html.com/">
->    <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-> </a>
 > <a href="https://www.rust-lang.com/">
 >    <img src="https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge"/>
+> </a>
+> <a href="https://soliditylang.org/">
+>    <img src="https://img.shields.io/badge/solidity-blue?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity Badge"/>
 > </a>
 > <a href="https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html">
 >    <img src="https://img.shields.io/badge/pinescript-brightgreen?style=for-the-badge&logo=pine&logoColor=white" alt="PineScript Badge"/>
