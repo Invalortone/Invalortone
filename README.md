@@ -20,7 +20,7 @@
 Dear Readers, 
 My name is <a href="https://github.com/Invalortone/"><code>invalortone</code></a>.
 
-<span style="font-family:'Courier New'">The hanging star glimmers brightly in the sky and the black curtain envelops it as Night overwhelms the sky. <br><br> Good evening, I am a novice in the art of Programming, but I will be sure to create a wide range of programs to assist my peers and spread ease in these dusk-filled times. <br> I'm proficient in Python and Rust, and I intend to study the field of Software development as well as Blockchain Development.<br><br> Pierce your gaze into the sky, for the heavens are filled with limitless opportunities.</span>
+<span style="font-family:'Courier New'">The hanging star glimmers brightly in the sky and the black curtain envelops it as Night overwhelms the sky. <br><br> Good evening, I am a novice in the art of Software Craftsmanship, looking to improve my skills. <br> I'm proficient in Python and Rust, and I intend to study the field of Software development.<br><br> Pierce your gaze into the sky, for the heavens are filled with limitless opportunities.</span>
 
 
 
@@ -30,6 +30,9 @@ My name is <a href="https://github.com/Invalortone/"><code>invalortone</code></a
 
 > <a href="https://www.python.org/">
 >    <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>  
+> </a>
+> <a href="https://cplusplus.com/">
+>    <img src="https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>  
 > </a>
 > <a href="https://www.rust-lang.com/">
 >    <img src="https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge"/>
